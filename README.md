@@ -85,6 +85,9 @@
 — **Bhagavad Gita 2.47** 🕉️
 
 ---
+## 🐍 My Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/akash6392614083-star/akash6392614083-star/gh-pages/github-contribution-grid-snake.svg)
 
 ## ⭐ Thank You for Visiting!
 
