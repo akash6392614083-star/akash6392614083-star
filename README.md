@@ -68,13 +68,13 @@
 
 ## 📫 Connect With Me
 
-📧 **Email:** Your Email
+📧 **Email:** akash6382614083@gmail.com
 
-💼 **LinkedIn:** Your LinkedIn Profile
+💼 **LinkedIn:** https://www.linkedin.com/in/akash-sharma-8a5078394/
 
 💻 **GitHub:** [@akash6392614083-star](https://github.com/akash6392614083-star)
 
-🌐 **Portfolio:** [My Portfolio](https://portfolio-tcjk.onrender.com/)
+🌐 **Portfolio:** https://portfolio-tcjk.onrender.com/
 
 ---
 
