@@ -87,8 +87,7 @@
 ---
 ## 🐍 My Contributions
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/akash6392614083-star/akash6392614083-star/gh-pages/github-contribution-grid-snake.svg)
-
+![GitHub Contribution Snake](https://raw.githubusercontent.com/akash6392614083-star/akash6392614083-star/main/assets/github-contribution-grid-snake.svg)
 ## ⭐ Thank You for Visiting!
 
 Thanks for taking the time to visit my GitHub profile.
